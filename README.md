@@ -3,6 +3,8 @@
 This Power BI dashboard provides a comprehensive analysis of 14 seasons of the popular business reality show **Shark Tank**. It visualizes key metrics related to startup pitches, investment trends, shark behavior, and viewership patterns—offering quick insights into how business ideas evolve and attract funding.
 
 ---
+![Shark Tank Dashboard Snapshot](https://github.com/kedarprathamesh/Shark-Tank-Analysis/blob/main/Shark%20Tank%20Dashboard%20Snapshot.png)
+---
 
 ## 📌 Key Features
 
@@ -54,4 +56,3 @@ This dashboard is designed for:
 
 ---
 
-## 📂 Folder Structure (if applicable)
