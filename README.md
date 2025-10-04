@@ -25,7 +25,7 @@ This Power BI dashboard provides a comprehensive analysis of 14 seasons of the p
 
 - **Demographics & Trends**
   - 👥 Pitches by Gender: Male, Female, Mixed Teams
-  - 📺 Viewership Trends: Year-wise breakdown from 2010 to 2019
+  - 📺 Viewership Trends: Year-wise breakdown from 2010 to 2022
 
 ---
 
